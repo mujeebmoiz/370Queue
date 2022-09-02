@@ -1,0 +1,5 @@
+# 370Queue
+This program starts with a letter generator that creates a random order of the letters (A, D, P, E, C, S).  With the letter A, a random number is produced and printed next to A in a text file.  
+The program then implements 3 different types of queues a user-made queue, a queue using the Standard template library queue functions, and a linked list queue. 
+The letters A, D, P, and E all represent the different queue functions A represents enqueue, D represents dequeue, P represents peek, and E represents is Empty. The program runs through and compares all of the queues to each other. 
+This program emphasizes the different implementations of queues and uses 3 different types of data structures in one program. 
